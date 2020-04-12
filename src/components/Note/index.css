@@ -1,0 +1,10 @@
+SNote {
+  display: inline-flex;
+  font-size: 16px;
+  cursor: pointer;
+  padding: 10px 15px;
+  margin: 10px;
+  border: 2px solid;
+  background-color: steelblue;
+  color: white;
+}

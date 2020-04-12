@@ -1,0 +1,11 @@
+Added {
+  position: absolute;
+  left: 20%;
+  bottom: 0;
+  width: 40%;
+  height: 50px;
+  font-size: 24px;
+  color: white;
+  background: green;
+  cursor: pointer;
+}

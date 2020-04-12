@@ -1,0 +1,13 @@
+Trash {
+  position: absolute;
+  left: 60%;
+  bottom: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 40%;
+  height: 50px;
+  border: 4px dashed black;
+  font-size: 22px;
+  font-weight: bold;
+}
